@@ -1,0 +1,14 @@
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\bin\Debug\Doan_QuanLyQuanCafe.exe
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\bin\Debug\Doan_QuanLyQuanCafe.exe.config
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\Doan_QuanLyQuanCafe.csproj.AssemblyReference.cache
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\Doan_QuanLyQuanCafe.fLogin.resources
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\Doan_QuanLyQuanCafe.fMain.resources
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\Doan_QuanLyQuanCafe.Properties.Resources.resources
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\Doan_QuanLyQuanCafe.fLogin.vi.resources
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\Doan_QuanLyQuanCafe.csproj.GenerateResource.cache
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\Doan_QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\vi\Doan_QuanLyQuanCafe.resources.dll
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\Doan_QuanLyQuanCafe.exe
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\obj\Debug\Doan_QuanLyQuanCafe.pdb
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\bin\Debug\Doan_QuanLyQuanCafe.pdb
+C:\2024-2025_HK1\LTUD\Doan_QuanLyQuanCafe\bin\Debug\vi\Doan_QuanLyQuanCafe.resources.dll
